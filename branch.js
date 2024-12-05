@@ -1,1 +1,1 @@
-console.log('Hello in branch');
+console.log('New in branch');
